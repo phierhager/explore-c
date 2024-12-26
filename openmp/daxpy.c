@@ -1,3 +1,5 @@
+// execute with gcc daxpy.c -o daxpy -fopenmp && ./daxpy
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>
